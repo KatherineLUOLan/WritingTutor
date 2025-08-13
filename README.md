@@ -19,3 +19,5 @@ cd WritingTutor
 npm install
 npm start
 ```
+
+Any Questions Please connect dpan750@connect.hkust-gz.edu.cn
